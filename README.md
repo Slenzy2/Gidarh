@@ -1,6 +1,6 @@
 # Gidarh (gidarh)
 
-A Quasar Project
+A Real estate platform (Ongoing)
 
 ## Install the dependencies
 ```bash
